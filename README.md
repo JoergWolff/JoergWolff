@@ -1,12 +1,33 @@
-### 🐺 Welcome to Joerg Wolff 🐺
-
-Hi, i'm an It-Spezialist from good old Hamburg and try'n to do my best in get a good webdeveloper.
-First i only was an Windows supporter and help PEBCAK through their wordays.
-
+> ### 🐺 Welcome to Joerg Wolff 🐺
+> 
+> Hi, i'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web programmer.
+> 
+> First i only was a Windows supporter and help PEBCAK through their wordays with their office-products.<br>
+> In the back MS update, update, update...<br>
+> Not only, but also support for DomainController-, Exchange-, MSSQL-, File, and Blackberry- Servers.<br>
+> Also additionally support for several software (Adobe CS3, websitesprograms, online-banking and so on...).
+> 
+> After 15 years working like this, i had enough and started training to become an MS programmer.<br>
+> With success...
+> 
+> And now a want to be a web developer.
+> 
 ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
+> ## My profile:
+> |Education|
+> |---------|
+> |It-Specialist for System Integration|
+> 
+> |Microsoft|Qualification|
+> |---------|-------------|
+> |MS|Microsft Spezialist C#|
+> |MCP|Microsoft Certified Professional|
+> |MCSA|Microsoft Certified Solution Associate: Universal Platform Charter Member|
+> |MCSD|Microsoft Certified Solution Developer: App Builder| 
 
-## My day never ends...
-- programming
-- learning
-- eating
-- sleeping
+
+> ## My day never ends...
+> - learning
+> - programming
+> - eating
+> - sleeping
