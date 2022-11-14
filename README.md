@@ -1,4 +1,4 @@
-> ### 🐺 Welcome to Joerg Wolff 🐺
+> # 🐺 Welcome to Joerg Wolff 🐺
 > 
 > Hi, i'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web programmer.
 > 
@@ -13,7 +13,8 @@
 > And now a want to be a web developer.
 > 
 ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
-> ## My profile:
+>
+>  ## My profile:
 > |Education|
 > |---------|
 > |It-Specialist for System Integration|
@@ -23,7 +24,24 @@
 > |MS|Microsft Spezialist C#|
 > |MCP|Microsoft Certified Professional|
 > |MCSA|Microsoft Certified Solution Associate: Universal Platform Charter Member|
-> |MCSD|Microsoft Certified Solution Developer: App Builder| 
+> |MCSD|Microsoft Certified Solution Developer: App Builder|
+
+
+>  ## Coding:
+> |Languages i have seen|
+> |---------|
+> |dos|
+> |powershell|
+> |Visual Basic|
+> |C#|
+> |.Net|
+> |HTML|
+> |CSS|
+> |PHP|
+> |SQL|
+> |A little bit of Java-Script|
+> |A little bit of ABBAP|
+> |A little bit of C and C++|
 
 
 > ## My day never ends...
@@ -31,3 +49,4 @@
 > - programming
 > - eating
 > - sleeping
+> - and so forth
