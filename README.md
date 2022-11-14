@@ -1,4 +1,4 @@
-### Welcome to Joerg Wolff 👋
+### 🐺 Welcome to Joerg Wolff 🐺
 
 Hi, i'm an It-Spezialist from good old Hamburg and try'n to do my best in get a good webdeveloper.
 
