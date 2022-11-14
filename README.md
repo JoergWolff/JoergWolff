@@ -39,7 +39,7 @@
 > |CSS|
 > |PHP|
 > |SQL|
-> |A little bit of Java-Script|
+> |A little bit of Java-Script and Java|
 > |A little bit of ABBAP|
 > |A little bit of C and C++|
 
