@@ -26,7 +26,6 @@
 > |MCSA|Microsoft Certified Solution Associate: Universal Platform Charter Member|
 > |MCSD|Microsoft Certified Solution Developer: App Builder|
 
-
 >  ## Coding:
 > |Languages i have seen|
 > |---------|
@@ -42,9 +41,6 @@
 > |A little bit of Java-Script and Java|
 > |A little bit of ABBAP|
 > |A little bit of C and C++|
-
-
-
 
 > ## My day never ends...
 > - learning
