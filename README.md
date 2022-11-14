@@ -19,14 +19,15 @@
 > |---------|
 > |It-Specialist for System Integration|
 > 
+> ### Certification:
 > |Microsoft|Qualification|
 > |---------|-------------|
 > |MS|Microsft Spezialist C#|
 > |MCP|Microsoft Certified Professional|
 > |MCSA|Microsoft Certified Solution Associate: Universal Platform Charter Member|
 > |MCSD|Microsoft Certified Solution Developer: App Builder|
-
->  ## Coding:
+>
+>  ### Coding:
 > |Languages i have seen|
 > |---------|
 > |dos|
