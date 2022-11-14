@@ -1,13 +1,13 @@
 > # 🐺 Welcome to Joerg Wolff 🐺
 > 
-> Hi, i'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web programmer.
+> Hi, I'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web programmer.
 > 
-> First i only was a Windows supporter and help PEBCAK through their wordays with their office-products.<br>
+> First I only was a Windows supporter and help PEBCAK through their wordays with their office-products.<br>
 > In the back MS update, update, update...<br>
 > Not only, but also support for DomainController-, Exchange-, MSSQL-, File, and Blackberry- Servers.<br>
 > Also additionally support for several software (Adobe CS3, websitesprograms, online-banking and so on...).
 > 
-> After 15 years working like this, i had enough and started training to become an MS programmer.<br>
+> After 15 years working like this, I had enough and started training to become an MS programmer.<br>
 > With success...
 > 
 > And now a want to be a web developer.
@@ -41,6 +41,11 @@
 > |A little bit of Java-Script and Java|
 > |A little bit of ABBAP|
 > |A little bit of C and C++|
+
+> ## Links I can recommend to you:
+> |Theme|Link|
+> |---------|----|
+> |Markdown|[Markdown Guide](https://www.markdownguide.org/ "How to create markup files")|
 
 > ## My day never ends...
 > - learning
