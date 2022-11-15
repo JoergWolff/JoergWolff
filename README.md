@@ -30,7 +30,7 @@
 >  ### Coding:
 > |Languages i have seen|
 > |---------|
-> |dos|
+> |batch|
 > |powershell|
 > |Visual Basic|
 > |C#|
