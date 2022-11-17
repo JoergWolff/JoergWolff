@@ -28,7 +28,7 @@
 > |MCSD|Microsoft Certified Solution Developer: App Builder|
 >
 >  ### Coding:
-> |Languages i have seen|
+> |Languages i've seen|
 > |---------|
 > |batch|
 > |powershell|
