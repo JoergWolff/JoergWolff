@@ -1,4 +1,6 @@
-> # 🐺 Welcome to Joerg Wolff 🐺
+> # Welcome to Joerg Wolff
+>
+> ---
 >
 > Hi, I'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web coder.
 >
@@ -11,9 +13,9 @@
 > With success...
 >
 > And now a want to be a web developer.
->
-> ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
->
+
+![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
+
 > ## My profile:
 >
 > ---
@@ -24,8 +26,6 @@
 >
 > ### Certification:
 >
-> ---
->
 > | Microsoft | Qualification                                                             |
 > | --------- | ------------------------------------------------------------------------- |
 > | MS        | Microsft Spezialist C#                                                    |
@@ -34,8 +34,6 @@
 > | MCSD      | Microsoft Certified Solution Developer: App Builder                       |
 >
 > ### Coding:
->
-> ---
 >
 > | Languages i've seen                  |
 > | ------------------------------------ |
@@ -61,7 +59,7 @@
 > | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown      | en       |
 > | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Entry and configuration | de       |
 > | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com)                                                                        | Learn to Code           | de       |
-
+>
 > ## My day never ends...
 >
 > ---
