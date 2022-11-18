@@ -48,11 +48,12 @@
 
 ## Links I can recommend to you:
 
-> | Theme                             | Link                                                                                                          | Description             | Language |
-> | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------- | -------- |
-> | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown      | en       |
-> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Entry and configuration | de       |
-> | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com)                                                                        | Learn to Code           | de       |
+> | Theme                             | Link                                                                                                          | Description                                 | Language                |
+> | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- |
+> | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown                          | en                      |
+> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Entry and configuration                     | de                      |
+> | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com "Many examples and Try-Editor")                                         | Learn to Code                               | en(+ Google Translation |
+> | PHP, SQL                          | [PHP-Einfach](https://www.php-einfach.de "PHP und SQL für Einsteiger und Profis")                             | Kurze Tutorials für Einsteiger und Experten | de                      |
 
 ## My day never ends...
 
