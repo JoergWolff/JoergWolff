@@ -16,11 +16,15 @@
 >
 > ## My profile:
 >
+> ---
+>
 > | Education                            |
 > | ------------------------------------ |
 > | It-Specialist for System Integration |
 >
 > ### Certification:
+>
+> ---
 >
 > | Microsoft | Qualification                                                             |
 > | --------- | ------------------------------------------------------------------------- |
@@ -30,6 +34,8 @@
 > | MCSD      | Microsoft Certified Solution Developer: App Builder                       |
 >
 > ### Coding:
+>
+> ---
 >
 > | Languages i've seen                  |
 > | ------------------------------------ |
@@ -48,6 +54,8 @@
 
 > ## Links I can recommend to you:
 >
+> ---
+>
 > | Theme                             | Link                                                                                                          | Description             | Language |
 > | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------- | -------- |
 > | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown      | en       |
@@ -55,6 +63,8 @@
 > | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com)                                                                        | Learn to Code           | de       |
 
 > ## My day never ends...
+>
+> ---
 >
 > - learning
 > - programming
