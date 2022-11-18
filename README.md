@@ -48,10 +48,10 @@
 
 > ## Links I can recommend to you:
 >
-> | Theme                             | Link                                                                          | Description             | Language |
-> | --------------------------------- | ----------------------------------------------------------------------------- | ----------------------- | -------- |
-> | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files") | All about Markdown      | en       |
-> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c)       | Entry and configuration | de       |
+> | Theme                             | Link                                                                                                          | Description             | Language |
+> | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------- | -------- |
+> | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown      | en       |
+> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Entry and configuration | de       |
 
 > ## My day never ends...
 >
