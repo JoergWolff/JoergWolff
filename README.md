@@ -1,7 +1,5 @@
 # Welcome to Joerg Wolff
 
----
-
 > Hi, I'm an It-Spezialist for sytem integration from good old "Hamburg" and try to become a good web coder.
 >
 > First I only was a Windows supporter and help PEBCAK through their wordays with their office-products.<br>
@@ -18,8 +16,6 @@
 
 ## My profile:
 
-> ---
->
 > | Education                            |
 > | ------------------------------------ |
 > | It-Specialist for System Integration |
@@ -52,8 +48,6 @@
 
 > ## Links I can recommend to you:
 >
-> ---
->
 > | Theme                             | Link                                                                                                          | Description             | Language |
 > | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------------- | -------- |
 > | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown      | en       |
@@ -61,8 +55,6 @@
 > | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com)                                                                        | Learn to Code           | de       |
 
 > ## My day never ends...
->
-> ---
 >
 > - learning
 > - programming
