@@ -51,7 +51,7 @@
 > | Theme                             | Link                                                                                                          | Description                                 | Language                |
 > | --------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ----------------------- |
 > | Markdown                          | [Markdown Guide](https://www.markdownguide.org/ "How to create markup files")                                 | All about Markdown                          | en                      |
-> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Entry and configuration                     | de                      |
+> | Introduction to git for newcomers | [Ben-Kaniobi](https://gist.github.com/Ben-Kaniobi/c528376a76765e99058c "Einführung in git für Neueinsteiger") | Einführung und Konfiguration                     | de                      |
 > |HTML, CSS, JavaScript, SVG|[SELFHTML-Wiki](https://wiki.selfhtml.org/wiki/)|Umfassende Wiki|de|
 > | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com "Many examples and Try-Editor")                                         | Learn to Code                               | en(+ Google Translation) |
 > | PHP, SQL                          | [PHP-Einfach](https://www.php-einfach.de "PHP und SQL für Einsteiger und Profis")                             | Kurze Tutorials für Einsteiger und Experten | de                      |
