@@ -56,7 +56,7 @@
 > | HTML, CSS, JAVA, PHP and more     | [W3schools](https://www.w3schools.com "Many examples and Try-Editor")                                         | Learn to Code                               | en(+ Google Translation) |
 > | PHP, SQL                          | [PHP-Einfach](https://www.php-einfach.de "PHP und SQL für Einsteiger und Profis")                             | Kurze Tutorials für Einsteiger und Experten | de                      |
 > |Farben|[HTML Color Codes](https://html-color-codes.info/)|All about HTM-Colors|en|
-> |WIKIBOOKS-die freie Bibliothek|[WIKIBOOKS](https://de.wikibooks.org/wiki/Hauptseite)|Viel, viel, viel...Wisen|de|
+> |WIKIBOOKS-die freie Bibliothek|[WIKIBOOKS](https://de.wikibooks.org/wiki/Hauptseite)|Viel, viel, viel...Wissen|de|
 
 ## My day never ends...
 
