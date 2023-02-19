@@ -10,7 +10,7 @@
 > After 15 years working like this, I had enough and started training to become an MS programmer.<br>
 > With success...
 >
-> And now a want to be a web developer.
+> And now I am a web developer.
 
 ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
 
@@ -42,7 +42,8 @@
 > | CSS                                  |
 > | PHP                                  |
 > | SQL                                  |
-> | A little bit of Java-Script and Java |
+> | JavaScript                           |
+> | A little bit of Java                 |
 > | A little bit of ABBAP                |
 > | A little bit of C and C++            |
 
