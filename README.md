@@ -29,6 +29,11 @@
 > | MCSA      | Microsoft Certified Solution Associate: Universal Platform Charter Member |
 > | MCSD      | Microsoft Certified Solution Developer: App Builder                       |
 >
+> | Bootcamp  | Qualification                                                             |
+> | --------- | ------------------------------------------------------------------------- |
+> | NeueFische| Web Developer                                                             |
+> | NeueFische| Java Developer in work                                                             |
+> 
 > ### Coding:
 >
 > | Languages i've seen                  |
