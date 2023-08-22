@@ -31,7 +31,7 @@
 >
 > |  Bootcamp | Qualification                                                             |
 > | --------- | ------------------------------------------------------------------------- |
-> | [[neuefische](https://www.neuefische.de/)](https://www.neuefische.de/)| Web Developer                                                             |
+> | [[neuefische](https://www.neuefische.de/)| Web Developer                                                             |
 > | [neuefische](https://www.neuefische.de/)| Java Developer in work                                                             |
 > 
 > ### Coding:
