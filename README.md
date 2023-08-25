@@ -10,7 +10,7 @@
 > After 15 years working like this, I had enough and started training to become an MS programmer.<br>
 > With success...
 >
-> And now I am a web developer.
+> I recently completed my Web Developer at the [newfische](neuefische.de) bootcamp as an alumni and now I am trying to do the Java Developer in a second bootcamp.
 
 ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
 
