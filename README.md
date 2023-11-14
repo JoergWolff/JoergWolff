@@ -10,7 +10,7 @@
 > After 15 years working like this, I had enough and started training to become an MS programmer.<br>
 > With success...
 >
-> I recently completed my Web Developer at the [neuefische](https://www.neuefische.de/) bootcamp as an alumni and now I am trying to do the Java Developer in a second bootcamp.
+> I recently completed my Web Developer and Java Developer at [neuefische](https://www.neuefische.de/) bootcamps as an alumni.
 
 ![](https://img.freepik.com/vektoren-kostenlos/ethnischer-wolfskopf-mit-roetlichen-toenen_23-2147646226.jpg?size=338&ext=jpg&ga=GA1.2.803631228.1668440244)
 
@@ -47,8 +47,9 @@
 > | CSS                                  |
 > | PHP                                  |
 > | SQL                                  |
+> | Java                                 |
 > | JavaScript                           |
-> | A little bit of Java                 |
+> | TypeScript                           |
 > | A little bit of ABBAP                |
 > | A little bit of C and C++            |
 
